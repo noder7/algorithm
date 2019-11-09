@@ -1,4 +1,6 @@
-
+// 체육복 문제
+//link
+//https://programmers.co.kr/learn/courses/30/lessons/42862
 
 function solution(n, lost, reserve) {
     var answer = 0;
