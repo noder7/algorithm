@@ -11,7 +11,7 @@ The first line contains an integer, N , the number of students.<br>
 The 2N subsequent lines describe each student over 2 lines; the first line contains a student's name, <br>
 and the second line contains their grade.<br>
   
-# #Constraints
+## Constraints
 2 <= N <= 5<br>
 There will always be one or more students having the second lowest grade.<br>
 
