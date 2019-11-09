@@ -5,23 +5,21 @@ store them in a nested list and print the name(s) of any student(s) having the s
 Note: If there are multiple students with the same grade, order their names alphabetically and print each name on a new line.
 
 
-##<Input Format>
+##Input Format
 
 The first line contains an integer, N , the number of students.<br>
 The 2N subsequent lines describe each student over 2 lines; the first line contains a student's name, <br>
 and the second line contains their grade.<br>
   
-##<Constraints>
--------------
+##Constraints
 2 <= N <= 5<br>
 There will always be one or more students having the second lowest grade.<br>
 
 ##Output Format
--------------
 Print the name(s) of any student(s) having the second lowest grade in Physics; if there are multiple students,<br>
 order their names alphabetically and print each one on a new line.<br>
 
-##<Sample Input 0>
+##Sample Input 0
 
 <pre><code>
 5
@@ -37,7 +35,7 @@ Harsh
 39
 </code></pre>
 
-##<Sample Output 0>
+##Sample Output 0
 <pre><code>
 Berry
 Harry
