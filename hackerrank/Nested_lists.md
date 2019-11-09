@@ -1,18 +1,23 @@
 문제
 ====
-Given the names and grades for each student in a Physics class of N students, 
-store them in a nested list and print the name(s) of any student(s) having the second lowest grade.
+Given the names and grades for each student in a Physics class of N students,<br>
+store them in a nested list and print the name(s) of any student(s) having the second lowest grade.<br>
 Note: If there are multiple students with the same grade, order their names alphabetically and print each name on a new line.
+
 <Input Format>
-The first line contains an integer, N , the number of students.
-The 2N subsequent lines describe each student over 2 lines; the first line contains a student's name, 
-and the second line contains their grade.
+--------------
+The first line contains an integer, N , the number of students.<br>
+The 2N subsequent lines describe each student over 2 lines; the first line contains a student's name, <br>
+and the second line contains their grade.<br>
+  
 <Constraints>
-2 <= N <= 5
-There will always be one or more students having the second lowest grade.
+-------------
+2 <= N <= 5<br>
+There will always be one or more students having the second lowest grade.<br>
 Output Format
-Print the name(s) of any student(s) having the second lowest grade in Physics; if there are multiple students,
-order their names alphabetically and print each one on a new line.
+-------------
+Print the name(s) of any student(s) having the second lowest grade in Physics; if there are multiple students,<br>
+order their names alphabetically and print each one on a new line.<br>
 
 <Sample Input 0>
 ----------------
